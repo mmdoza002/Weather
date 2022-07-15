@@ -1,0 +1,28 @@
+.input{
+    text-align: center;
+    margin: 100px 0 0;
+}
+
+input[type="text"]{
+    height: 50px;
+    width: 600px;
+    background:rgba(12, 192, 224, 0.87);
+    border:none;
+    border-radius: 10px;
+    font-size: 20px;
+    color:white;
+    padding: 10px 10px;
+}
+
+/* .display{
+    text-align: center;
+} */
+
+.button{
+    background:white;
+    color: grey;
+    height: 50px;
+    width: 80px;
+    border-radius: 3px;
+}
+
